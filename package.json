@@ -1,7 +1,7 @@
 {
   "name": "iloveyou",
   "version": "1.0.0",
-  "description": "sebuah project gabut... Nembak gebetan make ini aja akwoakwaokwaok",
+  "description": "sebuah project gabut... Nembak gebetan make ini aja",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
